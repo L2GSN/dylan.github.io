@@ -1,8 +1,12 @@
-body {
+/* body {
   font-family: Arial, sans-serif;
   background-color: gainsboro;
-  /* background: url("https://content.codecademy.com/courses/freelance-1/unit-6/project-morocco/banner.jpg") center center no-repeat; */
-  }
+  background: url("https://content.codecademy.com/courses/freelance-1/unit-6/project-morocco/banner.jpg") center center no-repeat;
+  } */
+
+ .table {
+  background-color: gainsboro;
+ } 
  
 .table h1 {
   text-align: center;
