@@ -13,7 +13,8 @@ body {
 
 .introduce {
   box-sizing: border-box;
-  margin: 0px auto;
+  margin: 0px;
   padding: 10px 200px;
+  background-color: hsla(151, 63%, 56%, 0.7);
 }
 
