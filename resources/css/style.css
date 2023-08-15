@@ -1,37 +1,12 @@
-/* body {
+body {
   font-family: Arial, sans-serif;
   background-color: gainsboro;
   background: url("https://content.codecademy.com/courses/freelance-1/unit-6/project-morocco/banner.jpg") center center no-repeat;
-  } */
-
- .table {
-  background-color: gainsboro;
- } 
- 
-.table h1 {
-  text-align: center;
+  }
+  /* update the structure of photos and table */
+.photos, .table {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px auto;
 }
 
-.table h2 {
-  color: rebeccapurple;
-  text-align: center;
-}
-
-.table table {
-  border: 2px solid darkorchid;
-  width: 650px;
-  margin: 0 auto;
-}
-
-.table thead {
-  background-color: plum;
-}
-
-.table td {
-  border-top: 1px solid darkorchid;
-}
-
-.table.code {
-  font-family: monospace;
-  background-color: beige;
-}
